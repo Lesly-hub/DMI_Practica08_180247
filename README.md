@@ -1,8 +1,8 @@
-# MovieApp-200931
+# MovieApp-180247
 ![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)
 ## Información General
 
-- **Creado por:** Uriel Maldonado Cortez
+- **Creado por:** Lesly Yareth Hernández Bonilla 
 - **Asignatura:** Desarrollo Movil Integral
 - **Grado:** 10
 - **Grupo:** A
@@ -10,25 +10,19 @@
 
 ## Descripción del Proyecto
 
-Este proyecto representa una aplicación de muestra desarrollada en Flutter que muestra una página de inicio de la aplicación "MovieApp-200931". La página de inicio contiene los siguientes componentes principales:
+Se desarrollo una aplicación que muestra una página de inicio que contiene un catálogo de películas que se encuentran en el cine a punto de estrenar o bien que ya fueron estrenadas.  La aplicación cuenta con los siguientes puntos:
 
-### `Home.dart`
+### 1. Barra de Navegación Superior
 
-Este archivo contiene la clase `Home`, que representa la página de inicio de la aplicación. En el método `initState`, se llama a `_loadJson` para cargar datos de películas utilizando `HttpHandler`. También se define un estilo de fuente personalizado y se crea la estructura principal de la aplicación, que incluye una AppBar, un Drawer y un BottomNavigationBar.
-
-### 1. AppBar (Barra de Navegación Superior)
-
-La AppBar muestra el título "MovieApp-200931" en el centro y un icono de búsqueda en la esquina derecha. Aquí se puede realizar la navegación y realizar búsquedas.
+La AppBar muestra el título "MovieApp" en el centro y un icono de búsqueda en la esquina derecha. 
 
 ### 2. Menú Lateral (Drawer)
 
 El menú lateral se abre deslizando desde el borde izquierdo de la pantalla o tocando el icono de menú en la AppBar. Contiene las siguientes opciones:
 
-- **"peliculas"**: Una opción que muestra películas y utiliza un estilo de fuente personalizado para dar formato al texto.
-
-- **"Television"**: Una opción que muestra programas de televisión y utiliza el mismo estilo de fuente personalizado.
-
-- **"Cerrar"**: Una opción que permite cerrar el menú lateral y volver a la página de inicio.
+- **"peliculas"**
+- **"Television"**
+- **"Cerrar"**
 
 ### 3. Barra de Navegación Inferior (BottomNavigationBar)
 
@@ -77,4 +71,4 @@ Para ejecutar esta aplicación en tu entorno de desarrollo, sigue estos pasos:
 5. Ejecuta `flutter run` para iniciar la aplicación en un emulador o dispositivo físico.
 
 
-Este proyecto es un ejemplo sólido de una página de inicio en Flutter que utiliza elementos de interfaz de usuario personalizados y estilos de fuente únicos. Si tienes alguna pregunta o necesitas ayuda adicional, no dudes en contactar al autor.
+Este proyecto es un ejemplo sólido de una página de inicio en Flutter que utiliza elementos de interfaz de usuario personalizados y estilos de fuente únicos. Si tienes alguna pregunta o necesitas ayuda ad
