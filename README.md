@@ -31,3 +31,10 @@ La barra de navegación inferior contiene tres elementos:
 - populares
 - Proximamente
 - Mejor valorados
+- 
+![Captura1](https://github.com/Lesly-hub/DMI_Practica08_180247/assets/74167109/1c4ab510-a90b-4677-aec0-5bb84ebe3082)
+![Captura2](https://github.com/Lesly-hub/DMI_Practica08_180247/assets/74167109/3e8efcbf-90f4-48ee-8ade-90d1ff81b894)
+
+
+
+
